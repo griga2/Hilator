@@ -1,0 +1,18 @@
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\bin\Debug\DadWorkFinal.exe
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\bin\Debug\DadWorkFinal.pdb
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.csprojResolveAssemblyReference.cache
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.MainForm.resources
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.csproj.GenerateResource.Cache
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.exe
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.pdb
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.WeekendForm.resources
+C:\Users\l-adm\Documents\SharpDevelop Projects\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.SheduleForm.resources
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\bin\Debug\DadWorkFinal.exe
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\bin\Debug\DadWorkFinal.pdb
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.csprojResolveAssemblyReference.cache
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.MainForm.resources
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.SheduleForm.resources
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.WeekendForm.resources
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.csproj.GenerateResource.Cache
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.exe
+E:\Отпуслятор\DadWorkFinal\DadWorkFinal\obj\Debug\DadWorkFinal.pdb
